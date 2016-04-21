@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Иван Иванов",
+        "picSrc": "http://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+        "bio": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "id": 1
+    },
+    {
+        "name": "Петр Петров",
+        "picSrc": "http://podrobnosti.ua/media/pictures/2016/1/16/thumbs/740x415/di-kaprio-javljaetsja-na-opredelennuju-dolju-russkim_rect_73964f9ad23fe44bdccc31d53472a745.jpg",
+        "bio": "тываоаодыо",
+        "id": 2
+    }
+]
